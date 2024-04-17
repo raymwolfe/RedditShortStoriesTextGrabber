@@ -1,2 +1,3 @@
 # RedditShortStoriesTextGrabber
 Python script to grab the top comment of the top 10 writing prompts of the day in /r/writingprompts
+This scrip is a project with the intention of increasing the visibility of the talented writers on reddit by posting interesting video backgrounds with the story read aloud using text to voice. The author will always be credited in the end of the video (as they should be). This project is not original, these types of videos have been circulating without the crediting of the original author, and split into many videos, the goal is to change the way things are done with this sort of content, and properly credit the original source, and increase exposure to the talent that created the content.  
